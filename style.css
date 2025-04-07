@@ -331,4 +331,13 @@ footer .socials {
         margin-bottom: 16px;
     }
 
+    .align-item{
+        display: flex;
+        align-items: center;
+    }
+
+    .margin-left{
+        margin-left: 5%;
+    }
+
 }
